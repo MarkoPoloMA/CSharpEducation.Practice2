@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Fifth\Class1.cs" />
+    <Compile Include="Fifth\ProgramFifth.cs" />
     <Compile Include="First\ProgramFirst.cs" />
     <Compile Include="Fourth\Rectangle.cs" />
     <Compile Include="Fourth\RectangleZerkal\RecA.cs" />
