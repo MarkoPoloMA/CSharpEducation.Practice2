@@ -57,6 +57,7 @@
     <Compile Include="Second\Converter\ConvertMetersToKilometers.cs" />
     <Compile Include="Second\ProgramSecond.cs" />
     <Compile Include="Second\Task2_1.cs" />
+    <Compile Include="Third\ProgramThird.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
